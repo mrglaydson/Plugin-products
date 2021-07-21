@@ -31,7 +31,7 @@ class Products_Public {
 	}
 
 	/**
-	 * Register the stylesheets for the public-facing side of the site.
+	 * Registre as folhas de estilo para o lado voltado para o público do site.
 	 *
 	 * @since    1.0.0
 	 */
